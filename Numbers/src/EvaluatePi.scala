@@ -1,6 +1,10 @@
 import scala.math.BigDecimal.RoundingMode
 
-object Evaluator {
+object EvaluatePi {
+
+  def main(args: Array[String]) {
+    args map (_.toInt) map calcPi foreach println
+  }
 
   def calcPi(n: Int): BigDecimal = List.range(0, n)
     .map(n => nthPiDigit(n))

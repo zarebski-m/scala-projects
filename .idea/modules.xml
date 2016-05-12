@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FindPi/FindPi.iml" filepath="$PROJECT_DIR$/FindPi/FindPi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numbers/Numbers.iml" filepath="$PROJECT_DIR$/Numbers/Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
   </component>
 </project>
