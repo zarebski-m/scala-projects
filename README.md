@@ -1,2 +1,7 @@
 # scala-projects
 Implementations of projects described in [project list by Karan](https://github.com/karan/Projects).
+
+## Realized exercises
+* Get first *N* decimals of PI.
+* Get first *N* Fibonacci numbers.
+* Reverse string.
